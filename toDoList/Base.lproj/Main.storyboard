@@ -98,10 +98,10 @@
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </switch>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="nVN-dl-irM">
-                                <rect key="frame" x="148" y="460" width="118" height="31"/>
+                                <rect key="frame" x="161" y="460" width="94" height="31"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <state key="normal" title="Button"/>
-                                <buttonConfiguration key="configuration" style="plain" image="plus.diamond" catalog="system" title="Add To-Do"/>
+                                <buttonConfiguration key="configuration" style="plain" title="Add To-Do"/>
                             </button>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="76O-Gm-TdD"/>
@@ -116,7 +116,6 @@
     </scenes>
     <resources>
         <image name="plus.circle" catalog="system" width="128" height="121"/>
-        <image name="plus.diamond" catalog="system" width="128" height="122"/>
         <systemColor name="systemBackgroundColor">
             <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
         </systemColor>
